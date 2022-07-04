@@ -1,0 +1,33 @@
+Model ,optimizer,time  (s),Precision,recall,f1-score,sensitivity,specificity
+Model 1 ,rmsprop,3909,0.98,0.98,0.98,0.9,0
+Model 1 ,adam,1635,0.98,0.97,0.98,0.9,0
+Model 1 ,nadam,6559,0.96,0.95,0.96,0.9,0
+Model 1 ,sgd,1120,0.99,0.98,0.99,0.9,0
+Model 1 ,adadelta,2256,1,0.26,0.41,0.9,0
+Model 1 ,adagrad,1699,0.99,0.96,0.98,0.9,0
+Model 1 ,adamax,1914,1,1,1,0.9,0
+Model 1 ,ftrl,2223,0,0,0,0.9,0.1
+Model 2 ,rmsprop,2509,0,0,0,0.9,0.1
+Model 2 ,adam,857,0,0,0,0.9,0.1
+Model 2 ,nadam,3561,0,0,0,0.9,0.1
+Model 2 ,sgd,288,0,0,0,0,0
+Model 2 ,adadelta,2523,0.94,0.85,0.89,0.91,0.02
+Model 2 ,adagrad,1585,1,0.93,0.96,0.9,0
+Model 2 ,adamax,2119,0.99,0.68,0.81,0.92,0
+Model 2 ,ftrl,2163,0.97,0.94,0.95,0.9,0
+Model 3,rmsprop,1994,1,1,1,0.9,0
+Model 3,adam,1651,0.99,0.99,0.99,0.9,0
+Model 3,nadam,6555,0.97,0.97,0.97,0.9,0
+Model 3,sgd,1132,0.99,0.99,0.99,0.9,0
+Model 3,adadelta,2110,1,0.15,0.26,0.9,0
+Model 3,adagrad,1649,1,0.97,0.98,0.9,0
+Model 3,adamax,2192,1,1,1,0.9,0
+Model 3,ftrl,2495,0,0,0,0.9,0.1
+Model 4 ,rmsprop,2153,0,0,0,0.9,0.1
+Model 4 ,adam,737,0,0,0,0.9,0.1
+Model 4 ,nadam,2561,0,0,0,0.9,0.1
+Model 4 ,sgd,0,0,0,0,0.9,0.1
+Model 4 ,adadelta,2143,1,0.09,0.17,0.9,0.01
+Model 4 ,adagrad,1574,1,0.98,0.99,0.9,0
+Model 4 ,adamax,2102,0.99,0.99,0.99,0.9,0
+Model 4 ,ftrl,2514,0,0,0,0.9,0.1
